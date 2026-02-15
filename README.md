@@ -30,6 +30,8 @@
 
 ----
 
+<!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BananaApache?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card) -->
+
 <a href="https://www.linkedin.com/in/danielli-dev/">
   <img align="left" alt="daniel's linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
 </a>
