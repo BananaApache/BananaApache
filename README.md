@@ -25,8 +25,7 @@
 ![studentat](https://img.shields.io/static/v1?label=&message=student:&color=111&style=flat-square)
 ![umiami](https://img.shields.io/badge/umiami-station.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNIDMwIDMwIEwgMzAgMTEwIEwgMzAgMTMwIFEgMzAgMTU1IDU1IDE2NSBRIDcwIDE3MCA5NSAxNzAgTCA5NSAxNTUgUSA3NSAxNTUgNjUgMTQ3IFEgNTUgMTM5IDU1IDExMCBMIDU1IDMwIFoiIGZpbGw9IiNGNDczMjEiLz48cGF0aCBkPSJNIDE3MCAzMCBMIDE3MCAxMTAgTCAxNzAgMTMwIFEgMTcwIDE1NSAxNDUgMTY1IFEgMTMwIDE3MCAxMDUgMTcwIEwgMTA1IDE1NSBRIDEyNSAxNTUgMTM1IDE0NyBRIDE0NSAxMzkgMTQ1IDExMCBMIDE0NSAzMCBaIiBmaWxsPSIjMDA1MDMwIi8+PC9zdmc+)
 
-**Aspiring Backend Engineer** &#12299;_architecture, data integrity, and efficiency_
-<br/>
+Interested in **backend architecture**, **cloud computing**, and **clean scalable infrastructure**
 
 ----
 
