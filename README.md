@@ -1,4 +1,4 @@
-### Hi, I'm Daniel! 👾 &#12299;Lifelong Learner. Python Lover. Django Enthusiast. Occasionally, I write Clean Code.
+### Hi, I'm Daniel! 👾 &#12299;Lifelong Learner. Python Lover. Django Enthusiast.
 
 ----
 
